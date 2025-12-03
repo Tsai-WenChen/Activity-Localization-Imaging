@@ -1,6 +1,10 @@
 # Activity-Localization-Imaging
 
 This folder contains MATLAB routines that demonstrate Activity Localization Imaging (ALI). 
+
+A Python implementation of ALI developed by Dr. Urs Böhm is available at:
+https://github.com/spinaldynamicslab/pyALI
+
 A small voltage imaging dataset is provided in the 'ali_demo_data.mat' file.
 This dataset contains images of mouse CA1 neurons expressing the voltage indicator 'Voltron 2'.
 These cells were imaged in vivo at 2000 frames per second using a high speed camera.
